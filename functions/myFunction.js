@@ -31,5 +31,5 @@
 */
 
 exports = (input) => {
-  return { "hi": input.name };
+  return { "bye": input.name };
 };
